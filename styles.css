@@ -1,21 +1,5 @@
-body{
-	background-color: lightblue;
+.white-text {
+	color: white
 }
 
-h1{background-color: white;
-	
-}
-
-.form-container {
-	background-color: light blue
-
-}
-
-.input-section {
-	background-color: light blue
-
-}
-
-.JavaScript {
-	background-color: yellow
-}
+.green-background {background-color:rgba(142, 191, 99, .7)}
